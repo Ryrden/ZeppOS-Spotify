@@ -79,6 +79,35 @@
       ],
       "designWidth": 336
     },
+    "active": {
+      "module": {
+        "page": {
+          "pages": [
+            "pages/home/index.page",
+            "pages/library/library.page",
+            "pages/playlist/playlist.page",
+            "pages/devices/devices.page"
+          ]
+        },
+        "app-side": {
+          "path": "app-side/index"
+        },
+        "setting": {
+          "path": "setting/index"
+        }
+      },
+      "platforms": [
+        {
+          "name": "amazfit-active",
+          "deviceSource": 8323328
+        },
+        {
+          "name": "amazfit-active-w",
+          "deviceSource": 8323329
+        }
+      ],
+      "designWidth": 390
+    },
     "gts3": {
       "module": {
         "page": {
